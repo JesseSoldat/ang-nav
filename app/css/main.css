@@ -6390,13 +6390,11 @@ th.hide-for-touch {
 body {
   background: #e2ebf3; }
 
-nav {
-  margin: 4%; }
+ul, li {
+  list-style: none; }
 
-a {
-  margin: 3%; }
-
-.inject {
-  margin-left: 7%; }
+section {
+  width: 80%;
+  margin: 0 auto; }
 
 /*# sourceMappingURL=main.css.map */
