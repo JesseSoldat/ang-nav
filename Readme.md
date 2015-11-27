@@ -1,6 +1,8 @@
 ## Welcome to My Project
 
-> I am your Readme.md file, you should probably update me.
+Using Angular and Foundation we created a basic Nav setup for a website.  
+
+https://ng-route.surge.sh/#/
 
 
 ## Usage
